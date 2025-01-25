@@ -1,4 +1,4 @@
 # Design
-<br> `Figma`
+<br> `Prototype`
 <br> `Mockup`
 <br> `Wireframe`
